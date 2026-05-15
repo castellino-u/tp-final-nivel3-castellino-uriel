@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Dominio", "Ecommerce.Dominio\Ecommerce.Dominio.csproj", "{F33693A1-19BA-4340-9C9A-743ABDDFDF5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Negocio", "Ecommerce.Negocio\Ecommerce.Negocio.csproj", "{23DB3747-42FD-4DB1-A5ED-B04DA239451E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{1F8CF763-7FD2-4C48-BE4A-B2F25BE11831}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F8CF763-7FD2-4C48-BE4A-B2F25BE11831}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F8CF763-7FD2-4C48-BE4A-B2F25BE11831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F33693A1-19BA-4340-9C9A-743ABDDFDF5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33693A1-19BA-4340-9C9A-743ABDDFDF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33693A1-19BA-4340-9C9A-743ABDDFDF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33693A1-19BA-4340-9C9A-743ABDDFDF5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23DB3747-42FD-4DB1-A5ED-B04DA239451E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23DB3747-42FD-4DB1-A5ED-B04DA239451E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23DB3747-42FD-4DB1-A5ED-B04DA239451E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23DB3747-42FD-4DB1-A5ED-B04DA239451E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
